@@ -1,0 +1,6 @@
+﻿# CONTRIBUTOR LIST
+
+# CORE TEAM
+kolmipilot - https://github.com/kolmipilot
+
+# CONTRIBUTORS

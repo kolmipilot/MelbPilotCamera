@@ -1,0 +1,12 @@
+name = "MELB Pilot Camera";
+picture = "melbcamera_ico.paa";
+actionName = "GitHub";
+action = "https://github.com/kolmipilot/BangaloreTorpedo";
+description = "Github";
+logo = "melbcamera_ico.paa";
+logoOver = "melbcamera_ico.paa";
+tooltip = "kolmipilot's MELB Pilot Camera";
+tooltipOwned = "kolmipilot's MELB Pilot Camera";
+overview = "kolmipilot's MELB Pilot Camera";
+author = "kolmipilot";
+overviewPicture = "melbcamera_ico.paa";
