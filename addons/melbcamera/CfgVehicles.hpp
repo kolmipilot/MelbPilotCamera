@@ -106,7 +106,7 @@ class CfgVehicles
         };
         class ViewPilot: ViewPilot
         {
-            maxFov=1.25;
+            maxFov=1.28;
         };
     };
     class MELB_AH6M: MELB_base{
