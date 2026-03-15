@@ -30,10 +30,10 @@ jobs:
     - name: Run HEMTT build
       run: hemtt build
     - name: Rename build folder
-      run: mv .hemttout/build .hemttout/@bangalore
+      run: mv .hemttout/build .hemttout/@melbcamera
     - name: Upload Artifact
       uses: actions/upload-artifact@v4
       with:
-        name: bangalore-${{ github.sha }}
+        name: melbcamera-${{ github.sha }}
         path: .hemttout/@*
         include-hidden-files: true # Because .hemttout is a hidden directory

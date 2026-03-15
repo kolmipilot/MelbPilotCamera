@@ -1,7 +1,7 @@
 name = "MELB Pilot Camera";
 picture = "melbcamera_ico.paa";
 actionName = "GitHub";
-action = "https://github.com/kolmipilot/BangaloreTorpedo";
+action = "https://github.com/kolmipilot/MelbPilotCamera";
 description = "Github";
 logo = "melbcamera_ico.paa";
 logoOver = "melbcamera_ico.paa";

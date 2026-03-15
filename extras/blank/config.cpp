@@ -6,7 +6,7 @@ class CfgPatches {
         units[] = {};
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] = {"bangalore_main"};
+        requiredAddons[] = {"melbcamera_main"};
         author = "";
         authors[] = {""};
         VERSION_CONFIG;

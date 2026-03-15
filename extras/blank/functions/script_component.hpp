@@ -1,1 +1,1 @@
-#include "\z\bangalore\addons\blank\script_component.hpp"
+#include "\z\melbcamera\addons\blank\script_component.hpp"

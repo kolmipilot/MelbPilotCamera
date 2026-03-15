@@ -38,10 +38,10 @@ jobs:
       - name: Run HEMTT Build
         run: hemtt build
       - name: Rename build folder
-        run: mv .hemttout/build .hemttout/@bangalore
+        run: mv .hemttout/build .hemttout/@melbcamera
       - name: Upload Release
         uses: actions/upload-artifact@v4
         with:
-          name: 'bangalore-${{github.sha}}-nobin'
+          name: 'melbcamera-${{github.sha}}-nobin'
           path: '.hemttout/@*'
           include-hidden-files: true # Because .hemttout is a hidden directory
